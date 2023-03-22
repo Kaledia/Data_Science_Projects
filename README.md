@@ -10,7 +10,7 @@ Kaledia Ouattara
 kaledia.p.ouattara@gmail.com
 
 https://github.com/Kaledia/Project_DataAnalysis_ChemicalEngineeringResearch_Excel
-![Picture]!(lamar3)
+![Picture]!(https://github.com/Kaledia/kalediapaul.github.io/blob/main/images/lamar3.JPG)
 https://github.com/Kaledia/Project_CarSales_DataAnalysisWithPandas
 https://github.com/Kaledia/Project_Tableau_DataVisualisation_VideoGameSales
 https://github.com/Kaledia/DataCamp_Project_Netflix
