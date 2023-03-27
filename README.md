@@ -2,7 +2,10 @@
 
 Hello, 
 Welcome to my GitHub pages for my Data Science Projects.
-You can find below the links to visit the differents projects. The files are also uploaded here. I builded a website for a better presentation thanks to "Alex The Analyst": https://kaledia.github.io/kalediapaul.github.io/ 
+You can find below the links to visit the differents projects. The files are also uploaded here. I builded a website for a better presentation thanks to "Alex The Analyst": 
+
+https://kalediaouattara.netlify.app/ 
+or for a website without images: https://kaledia.github.io/kalediapaul.github.io/ 
 
 Thanks,
 
