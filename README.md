@@ -14,6 +14,7 @@ kaledia.p.ouattara@gmail.com
 
 https://github.com/Kaledia/Project_DataAnalysis_ChemicalEngineeringResearch_Excel
 https://github.com/Kaledia/Project_CarSales_DataAnalysisWithPandas
+https://github.com/Kaledia/SQL-Project_COVID19
 https://github.com/Kaledia/Project_Tableau_DataVisualisation_VideoGameSales
 https://github.com/Kaledia/DataCamp_Project_Netflix
 https://github.com/Kaledia/DataCamp_Project_Scala
